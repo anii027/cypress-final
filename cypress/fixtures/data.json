@@ -1,0 +1,16 @@
+{
+  "new-user": {
+    "name": "ანი ჯანელიძე",
+    "id": "100011182231",
+    "password": "anushkebi123",
+    "mail": "random-1new-email22@gmail.com",
+    "phone": "5196668899"
+  },
+  "existed-user": {
+    "mail": "random-new-email2211112@gmail.com",
+    "password": "111111",
+    "name": "ანი ჯანელიძე222",
+    "id": "1234123512342",
+    "phone": "555151222"
+  }
+}
